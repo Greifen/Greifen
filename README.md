@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Greifen/Greifen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Greifen)](https://github.com/Greifen/github-readme-stats)
 
 Here are some ideas to get you started:
 
